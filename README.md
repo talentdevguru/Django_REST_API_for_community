@@ -37,6 +37,8 @@ $python manage.py migrate
 Then Run server.
 $python manage.py runserver
 
+3. Checking the api list
+
 And you can check the api list on 
 http://localhost:8000/api/v1
 http://localhost:8000/swagger/v1
