@@ -26,6 +26,8 @@ $ pip install djangorestframework
 $ pip install -U drf-yasg
 $ pip install flex
 
+2. Run Django Project.
+
 Now you have to move to project directory.
 
 Migrate the database.
